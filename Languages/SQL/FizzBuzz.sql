@@ -1,3 +1,4 @@
+-- NOTE: I've used SQLite 3.39.4 while making this.
 
 /*
   A Program that loops from 1 to 100 and prints the corresponding FizzBuzz
